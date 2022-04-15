@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\bin\Debug\net5.0\RaiLib.deps.json
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\bin\Debug\net5.0\RaiLib.dll
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\bin\Debug\net5.0\ref\RaiLib.dll
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\bin\Debug\net5.0\RaiLib.pdb
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\obj\Debug\net5.0\RaiLib.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\obj\Debug\net5.0\RaiLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\obj\Debug\net5.0\RaiLib.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\obj\Debug\net5.0\RaiLib.AssemblyInfo.cs
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\obj\Debug\net5.0\RaiLib.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\obj\Debug\net5.0\RaiLib.dll
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\obj\Debug\net5.0\ref\RaiLib.dll
+C:\Users\Acer\source\repos\raisircl\IOT\RaiLib\obj\Debug\net5.0\RaiLib.pdb

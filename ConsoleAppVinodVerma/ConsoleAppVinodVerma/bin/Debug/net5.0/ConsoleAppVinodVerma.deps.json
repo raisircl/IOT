@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleAppVinodVerma/1.0.0": {
+        "dependencies": {
+          "RaiLib": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppVinodVerma.dll": {}
+        }
+      },
+      "RaiLib/1.0.0": {
+        "runtime": {
+          "RaiLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppVinodVerma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RaiLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
